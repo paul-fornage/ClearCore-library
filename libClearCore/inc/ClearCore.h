@@ -116,6 +116,5 @@ extern SdCardDriver SdCard;
 extern SysManager SysMgr;
 }
 
-using namespace ClearCore;
 
 #endif // __CLEARCORE_H__
