@@ -39,3 +39,9 @@ Debug/
 Release/
 .vscode
 .idea
+
+
+!libClearCore/Release
+!LwIP/Release
+!libClearCore/Release/libClearCore.a
+!LwIP/Release/libLwIP.a
