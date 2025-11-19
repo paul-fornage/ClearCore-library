@@ -35,7 +35,7 @@
 #include "SysTiming.h"
 #include "SysUtils.h"
 
-extern const uint32_t SystemCoreClock;
+extern uint32_t SystemCoreClock;
 
 namespace ClearCore {
 
